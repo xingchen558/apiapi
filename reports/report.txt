@@ -1,0 +1,11 @@
+test_login_1 (common.test_recharge.TestRecharge) ... ok
+test_login_2 (common.test_recharge.TestRecharge) ... ok
+test_login_3 (common.test_recharge.TestRecharge) ... ok
+test_login_4 (common.test_recharge.TestRecharge) ... ok
+test_login_5 (common.test_recharge.TestRecharge) ... ok
+test_login_6 (common.test_recharge.TestRecharge) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.338s
+
+OK
